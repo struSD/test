@@ -1,3 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, my name danylo strus!");
+Console.WriteLine("Hello, my name petro!");
 
